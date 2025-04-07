@@ -1,7 +1,7 @@
 
-# PRINCE-MDXI WhatsApp Bot 🌝💚
+# KAYBOY-XMD WhatsApp Bot 🌝💚
 
-![Bot Image](https://files.catbox.moe/kzfne8.jpeg)
+![Bot Image](https://files.catbox.moe/kt9yjh.jp)
 
 **Simple and Best WhatsApp Bot Created by [PRINCE MAYEL](https://github.com/mayelprince)**
 
@@ -59,4 +59,4 @@ Stay updated by joining our official WhatsApp channel:
 
 ## 🙏 Thank You!
 
-**Developed by [PRINCE MAYEL](https://github.com/mayelprince)**
+**Developed by [KAYBOY](https://github.com/mayelprince)**
