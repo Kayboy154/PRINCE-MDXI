@@ -1,7 +1,7 @@
 
 # KAYBOY-XMD WhatsApp Bot 🌝💚
 
-![Bot Image](https://files.catbox.moe/kt9yjh.jp)
+![Bot Image](https://files.catbox.moe/kt9yjh.jpg)
 
 **Simple and Best WhatsApp Bot Created by [PRINCE MAYEL](https://github.com/mayelprince)**
 
